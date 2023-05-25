@@ -1,0 +1,126 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+h1,h2,h3,h4,h5,h6 {
+    font-weight: bold;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    background-image: url(../img/sfondo.png);
+   background-repeat:  repeat;
+   background-attachment: scroll;
+   background-size: 50%;
+    
+}
+
+.p{
+    padding: 1.5em;
+}
+
+
+h1 {
+    font-size: 2em;
+    margin: 1em 0;
+}
+h2 {
+    font-size: 1.5em;
+}
+
+h3{
+    font-size: 1.2em;
+}
+
+.container
+{
+    width: 500px;
+    
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 35px;
+    background-color: white ;
+    
+   
+   
+}
+
+
+
+
+
+   
+   
+   
+
+li span {
+    border: 2px solid rgb(168, 163, 163);
+    border-radius: 20px;
+    color: black;
+    background-color: silver;
+}
+
+
+
+
+
+
+
+
+/* HEADER */
+
+#header {
+   background-color: rgb(36, 104, 136);
+   margin-top: 2em;
+   color: white;
+   
+}
+
+
+
+
+
+
+/* MAIN */
+
+main span{
+    color: rgb(94, 0, 182);
+}
+
+.contenitore {
+  border: 1px solid;
+  padding: 1em;
+  margin: 1em;
+  background-color: silver;
+  
+   
+  
+}
+
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+caption {
+    font-weight: bold;
+}
+
+#table {
+ margin-left: 9em;
+ 
+
+}
+
+th {
+    border: solid ;
+    background-color: rgb(190, 190, 199);
+}
+
+
+
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
